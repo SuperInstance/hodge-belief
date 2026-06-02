@@ -1,0 +1,11 @@
+[package]
+name = "hodge-belief"
+version = "0.1.0"
+edition = "2021"
+description = "Hodge decomposition for belief states with interpretability"
+license = "MIT"
+repository = "https://github.com/SuperInstance/hodge-belief"
+keywords = ["hodge", "decomposition", "belief", "laplacian", "interpretability"]
+categories = ["mathematics", "science"]
+
+[dependencies]
